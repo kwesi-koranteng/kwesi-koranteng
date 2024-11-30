@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kwesi-koranteng
-- 👀 I’m interested in Software Engineering 
+- 👀 I’m interested in Software Engineering, Database Systems, AI & PM!
 - 🌱 I’m currently learning Data Structures and Algorithms
 - 📫 How to reach me on linkedIn @ Kwesi Koranteng
 - 😄 Pronouns: He/Him
